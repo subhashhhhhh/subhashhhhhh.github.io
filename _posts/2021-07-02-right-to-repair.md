@@ -7,7 +7,7 @@ comments: true
 img_path: /assets/img/
 ---
 
-<img src=repair.jpeg>
+<img src="repair.jpeg">
 
 The results of a study done in cooperation with the UN Environment Program (UNEP) and the World Health Organization (WHO) revealed that the amount of electronic trash generated last year hit a new record of 53.6 million metric tonnes.
 
