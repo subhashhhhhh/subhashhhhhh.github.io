@@ -7,7 +7,7 @@ comments: true
 img_path: /assets/img/
 ---
 
-<img src=tesla.jpeg>
+<img src="tesla.jpeg">
 
 Electric cars are becoming more popular in recent years due to their numerous benefits, including lower fuel costs and reduced emissions. However, some people argue that electric cars don't make sense for various reasons.
 
