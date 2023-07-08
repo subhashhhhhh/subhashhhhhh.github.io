@@ -34,6 +34,8 @@ google_site_verification:
 google_analytics:
   id: 'G-99TM6KXFM4' # fill in your Google Analytics ID
 
+-img_cdn:
+
 theme_mode: [light]
 
 avatar: /assets/img/avatar/avatar.png
