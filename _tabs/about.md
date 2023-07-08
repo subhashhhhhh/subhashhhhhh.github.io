@@ -4,11 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hellooooo! I'm Subhash. I'm an 18 years old Computer Engineering fresher at Thapar Institute of Engineering & Technology, Patiala. This blog of mine is all about my personal experiences. I'm a massive fan of racing so there might be a few posts about it here and there :D
+Hey there! I'm a second-year Computer Science student at Thapar Institute of Engineering and Technology, and I'm all about exploring the latest technologies and building cool things!
 
-I'm starting to write about things that help students since I discovered so many people are not aware of these things. A few examples are the freebies and discounts that come with our status as university students. So if you're a student, my blog will hopefully be helpful for you.
+From day one, I've had this insatiable curiosity to dive deep into new technologies and their potential. I'm driven by the excitement of creating innovative solutions that can make a real difference in the world.
 
-And thanks for reading my blog! Follow me on all my socials mentioned below.
+During my time at Thapar, I've been fortunate to learn the fundamental concepts of computer science, algorithms, and various programming languages. But it's not just about textbooks and lectures for me. I believe in hands-on learning and putting ideas into action.
 
--   [GitHub](https://github.com/subhashhhhhh?ref=subhashh.tech)
--   [Instagram](https://instagram.com/subhashhhhhhhhhhhhhhhhhhhhh?ref=subhashh.tech)
+I'm a firm believer in the power of teamwork and collaboration. There's something amazing about working with like-minded people, bouncing ideas off each other, and bringing those ideas to life. I thrive in diverse and multicultural environments that foster creativity and encourage out-of-the-box thinking.
+
+Problem-solving is my jam! I love tackling complex challenges head-on and finding elegant solutions. It's all about breaking things down, analyzing the pieces, and putting them back together in the most efficient way possible. And hey, it's not just about coding. I believe in understanding the bigger picture and how technology can impact society.
+
+Feel free to reach out and let's chat about all things tech, innovation, or anything that sparks your curiosity. Looking forward to connecting with you!
+
+-   [GitHub](https://github.com/subhashhhhhh)
+-   [Instagram](https://instagram.com/subhashhhhhhhhhhhhhhhhhhhhh)
+-   [Twitter](https://twitter.com/subhashhhhhhhhh)
+-   [LinkedIn](https://linkedin.com/in/subhashgottumukkala)
