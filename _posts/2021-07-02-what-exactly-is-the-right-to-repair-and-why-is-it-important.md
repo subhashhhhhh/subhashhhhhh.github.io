@@ -16,6 +16,18 @@ This waste can be viewed in three ways.
 
 *First*, one can calculate the total weight of all the adults in Europe. *Another* perspective is to compare the weight of all the adults in Europe to the weight of 350 cruise ships. Additionally, they pointed out that the wasted materials represented a significant loss of important resources as well as the risk of environmental toxins such as mercury.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2125431543426665"
+     data-ad-slot="3654420654"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 It is self-evident that governments, businesses, and civil society all have a role to play in solving this e-waste problem that has gone ignored for so long. The Right to Repair movement strives to reduce e-waste by making electrical and electronic items easier to repair.
 
 ## Repair is a human right.
@@ -31,6 +43,18 @@ The Right to Repair (RTOR) began in the United States in the automotive industry
 Manufacturers have done everything in their power to make spare parts harder to come by, including delaying the date when spare parts are made available by allowing them to be made available for only a limited time after the product is first released. As well as prohibitions on who can repair them, there are often provisions for who is permitted to do so.
 
 It's making progress in all of these areas with the 'Right to Repair' movement.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2125431543426665"
+     data-ad-slot="3654420654"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## The benefits
 
@@ -63,6 +87,18 @@ Consumers should do their own research and learn about how to avoid creating any
 Replacing damaged equipment, rather than replacing it, should result in fewer carbon emissions and less waste when compared to simply discarding or dumping the item. Instead of repairing and reusing used goods, thousands of them are instead disposed of, destroyed, or simply discarded.
 
 In other words, to minimize post-sale material waste, manufacturers must make sure their after-sales service is both effective and efficient. This will help consumers dispose of less post-sale material, while also advising them on the best methods for recycling any potentially defective parts that are extracted.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2125431543426665"
+     data-ad-slot="3654420654"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## What legislation is being passed that will support the Right to Repair?
 

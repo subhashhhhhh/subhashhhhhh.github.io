@@ -7,7 +7,19 @@ comments: true
 img_path: /assets/img/
 ---
 
-<img src="ai.jpg">
+<img src="ai.jpeg">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2125431543426665"
+     data-ad-slot="3654420654"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 The possible risks of artificial intelligence (AI) and whether it could endanger humans have generated a lot of worry and discussion. While it's critical to take into account the possible dangers and challenges posed by AI, it's also crucial to understand that humans won't be wiped out by the technology any time soon.
 

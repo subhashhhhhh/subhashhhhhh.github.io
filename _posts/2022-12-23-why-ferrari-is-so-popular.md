@@ -9,6 +9,18 @@ img_path: /assets/img/
 
 <img src="ferrari.jpeg">
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2125431543426665"
+     data-ad-slot="3654420654"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 There are many reasons why people love Ferrari. First of all, Ferrari is known for its racing heritage and its association with some of the greatest drivers and teams in the history of motorsport. The company's cars have won many prestigious races and championships, and they are seen as symbols of speed, power, and success.
 
 Additionally, Ferrari is known for its commitment to quality, innovation, and design. The company uses the latest technologies and materials to create its cars, and its vehicles are known for being handmade and for their advanced features, such as their powerful engines, agile handling, and sophisticated aerodynamics.
