@@ -1,25 +1,34 @@
 theme: jekyll-theme-chirpy
 
+
 baseurl: ''
+
 
 lang: en
 
+
 timezone: Asia/Kolkata
+
 
 title: subhash's blog
 
+
 tagline: my personal blog
+
 
 description: >-
   a personal blog where thoughts and experiences are shared. Join me on this journey of self-discovery, inspiration, and meaningful reflections
 
+
 url: "https://subhashhhhhh.github.io"
+
 
 github:
   username: subhashhhhhh
 
- twitter:
+twitter:
   username: subhashhhhhhhhh
+
 
 social:
   name: Subhash Gottumukkala
@@ -29,16 +38,18 @@ social:
     - https://twitter.com/subhashhhhhhhhh
     - https://www.linkedin.com/in/subhashgottumukkala
 
-google_site_verification:
 
 google_analytics:
-  id: 'G-99TM6KXFM4' # fill in your Google Analytics ID
+  id: # fill in your Google Analytics ID
 
--img_cdn:
+
+img_cdn:
+
 
 theme_mode: [light]
 
 avatar: /assets/img/avatar/avatar.png
+
 
 toc: true
 
