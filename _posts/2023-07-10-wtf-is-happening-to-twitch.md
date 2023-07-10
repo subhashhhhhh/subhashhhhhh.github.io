@@ -1,6 +1,6 @@
 ---
 title: WTF is happening to Twitch
-date: 2023-07-08
+date: 2023-07-10
 categories : [Technology, Streaming]
 tags :  [Twitch]
 comments: true
@@ -27,7 +27,7 @@ In the past, Twitch was primarily known as a hub for gamers to showcase their sk
 ## The Economics
 The shift in Twitch’s content can be partially attributed to its economic considerations. Livestreamers who delve into explicit or adult-themed content often find it to be exceptionally lucrative. For example, streamer Corinna Kopf made a staggering $4 million in her first month on an alternative platform, with another million the following month. Such financial success is undeniably attractive to content creators. Considering Twitch’s 50% revenue share with streamers, it’s not surprising that the platform has chosen to embrace this type of content. However, this shift comes at a cost.
 
-## The Mature Content:
+## The Mature Content
 It’s important to acknowledge that mature content remains taboo in many societies, particularly when it comes to entertainment platforms. Parents may be hesitant to allow their children to access a platform that promotes or tolerates explicit content. This raises concerns about the general audience and the potential impact on Twitch’s reputation and user base. Additionally, streamers who primarily focus on gaming content may be hesitant to use the platform if it becomes associated with mature or NSFW content, opting for alternatives like YouTube instead.
 
 ## The Dilemma
