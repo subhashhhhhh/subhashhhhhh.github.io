@@ -6,8 +6,10 @@ tags :  [Mission Impossible,Tom Cruise]
 comments: true
 img_path: /assets/img/
 ---
-![tom cruise and vanessa kirby](/assets/img/mi-7.jpg)
-_Tom Cruise and Vanessa Kirby in Mission Impossible: Dead Reckoning_
+<figure>
+<img src="mi-7.jpg" alt="Tom Cruise and Vanessa Kirby">
+<figcaption>Tom Cruise and Vanessa Kirby</figcaption>
+</figure>
 
 > `WARNING` This article contains spoilers of the Mission Impossible: Dead Reckoning
 {: .prompt-warning }
@@ -29,12 +31,14 @@ Dead Reckoning begins with a high-stakes scenario involving a Russian submarine 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 ## Tom Cruise
-![Bike Stunt by Tom Cruise](assets/img/bike-stunt.jpeg){: .left }
+<img src="bike-stunt.jpeg" alt="Bike Stunt by Tom Cruise">
 At 60 years old, Tom Cruise proves once again that he is a force to be reckoned with in the action genre. His commitment to performing his own stunts adds authenticity and excitement to every scene. Cruise's portrayal of Ethan Hunt, a character who remains at the top of his game, offers a refreshing perspective on legacy heroes. Cruise understands what his fans want, and he delivers an unapologetic star performance that keeps audiences engaged from start to finish.
 
 ## Hayley Atwell
-![Tom Cruise and Hayley Atwell](assets/img/tom-and-hayley.jpg){: .right }
-_Tom Cruise and Hayley Atwell_
+<figure>
+<img src="tom-and-hayley.jpg" alt="Tom Cruise and Hayley Atwell">
+<figcaption>Tom Cruise and Hayley Atwell</figcaption>
+</figure>
 Dead Reckoning introduces Hayley Atwell as Grace, a feisty and competent international thief. Unlike some recent attempts at strong female characters, Grace is likable, realistically flawed, and brings a seductive charm to the screen. Atwell's performance shines, and her chemistry with Cruise adds depth to their partnership. The movie strikes the right balance by not overshadowing Cruise's character and allowing him to remain the star unlike the recent Indiana Jones.
 
 ## An interesting take on the antagonists
