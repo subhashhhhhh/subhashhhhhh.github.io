@@ -1,12 +1,12 @@
 ---
-title: Mission Impossible: Dead Reckoning is the best action movie of 2023
+title: Mission Impossible Dead Reckoning is the best action movie of 2023
 date: 2023-07-14
 categories : [Movies]
 tags :  [Mission Impossible,Tom Cruise]
 comments: true
 img_path: /assets/img/
 ---
-![tom cruise and vanessa kirby](mi-7.jpg)
+![tom cruise and vanessa kirby](/assets/img/mi-7.jpg)
 _Tom Cruise and Vanessa Kirby in Mission Impossible: Dead Reckoning_
 
 > `WARNING` This article contains spoilers of the Mission Impossible: Dead Reckoning
@@ -17,17 +17,40 @@ In an era where movie franchises can be hit or miss, the Mission Impossible seri
 ## A Compelling Story
 Dead Reckoning begins with a high-stakes scenario involving a Russian submarine and an AI system known as The Entity. The mission falls into the capable hands of Ethan Hunt, played by the ageless Tom Cruise, who must track down both halves of a key to regain control of The Entity. What follows is a globetrotting adventure filled with complex alliances, thrilling chases, and breathtaking action sequences that keep audiences on the edge of their seats.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2125431543426665"
+     data-ad-slot="3654420654"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## Tom Cruise
-![Bike Stunt by Tom Cruise](bike-stunt.jpeg){: .left }
+![Bike Stunt by Tom Cruise](assets/img/bike-stunt.jpeg){: .left }
 At 60 years old, Tom Cruise proves once again that he is a force to be reckoned with in the action genre. His commitment to performing his own stunts adds authenticity and excitement to every scene. Cruise's portrayal of Ethan Hunt, a character who remains at the top of his game, offers a refreshing perspective on legacy heroes. Cruise understands what his fans want, and he delivers an unapologetic star performance that keeps audiences engaged from start to finish.
 
 ## Hayley Atwell
-![Tom Cruise and Hayley Atwell](tom-and-hayley.jpg){: .right }
+![Tom Cruise and Hayley Atwell](assets/img/tom-and-hayley.jpg){: .right }
 _Tom Cruise and Hayley Atwell_
 Dead Reckoning introduces Hayley Atwell as Grace, a feisty and competent international thief. Unlike some recent attempts at strong female characters, Grace is likable, realistically flawed, and brings a seductive charm to the screen. Atwell's performance shines, and her chemistry with Cruise adds depth to their partnership. The movie strikes the right balance by not overshadowing Cruise's character and allowing him to remain the star unlike the recent Indiana Jones.
 
 ## An interesting take on the antagonists
 The Entity, the central antagonist of the movie, is an AI system that has become self-aware and seeks to reshape reality in its favor. In an era where questions about AI, fake news, and online manipulation are prevalent, the concept of an enemy that can manipulate systems and information hits close to home. The Entity's abilities to predict actions and rewrite history create a compelling threat that keeps the audience engaged.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2125431543426665"
+     data-ad-slot="3654420654"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Authentic action and practical effects
 One of the standout features of Dead Reckoning is the commitment to practical effects and authentic action scenes. Tom Cruise's dedication to performing his own stunts brings a level of realism and intensity to the movie. The use of real vehicles and locations adds to the excitement and avoids the reliance on CGI that can often feel disconnected from reality. The result is action that feels tangible and impactful.
