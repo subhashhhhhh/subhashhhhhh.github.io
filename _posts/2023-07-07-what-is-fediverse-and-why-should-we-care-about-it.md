@@ -1,13 +1,13 @@
 ---
-title: What is Fediverse and Why should we care about it?
+layout: post
+author : "Subhash Gottumukkala"
+title: "What is Fediverse and Why should we care about it?"
 date: 2023-07-07
-categories : [Technology]
+categories : Technology
 tags :  [Fediverse]
 comments: true
-img_path: /assets/img/
+image: threads.jpeg
 ---
-
-<img src="threads.jpeg">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
      crossorigin="anonymous"></script>

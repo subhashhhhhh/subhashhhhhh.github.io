@@ -1,13 +1,13 @@
 ---
-title: Arrays in C, Definition, Declaration, Initialization, and Advantages
+layout: post
+author : "Subhash Gottumukkala"
+title: "Arrays in C: Definition, Declaration, Initialization, and Advantages"
 date: 2022-12-29
-categories : [Programming]
+categories : Programming
 tags :  [C]
 comments: true
-img_path: /assets/img/
+image: Arrays.jpeg
 ---
-
-<img src="Arrays.jpeg">
 
 Arrays in C are a collection of elements of the same data type, stored in contiguous memory locations. They are a useful data structure for storing and accessing a large number of elements efficiently.
 

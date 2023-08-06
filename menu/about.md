@@ -1,7 +1,7 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About me!
+permalink: /about
 ---
 
 Hey there! I'm a second-year Computer Science student at Thapar Institute of Engineering and Technology, and I'm all about exploring the latest technologies and building cool things!

@@ -1,10 +1,12 @@
 ---
-title: WTF is happening to Twitch
+layout: post
+author : "Subhash Gottumukkala"
+title: "WTF is happening to Twitch"
 date: 2023-07-10
-categories : [Technology, Streaming]
+categories : Technology, Streaming
 tags :  [Twitch]
 comments: true
-img_path: /assets/img/
+image: twitch.jpeg
 ---
 
 Twitch, the popular streaming platform that was once synonymous with gaming, has undergone a significant transformation in recent years. The platform’s shift towards more mature and explicit content has raised eyebrows and sparked debates within its community. In this blog post, we’ll explore how Twitch has changed, the factors that contributed to this shift, and the potential implications for its future.

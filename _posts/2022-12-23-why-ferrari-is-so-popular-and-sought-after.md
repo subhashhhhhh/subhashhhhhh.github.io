@@ -1,13 +1,13 @@
 ---
-title: Why Ferrari is so popular?
+layout: post
+author : "Subhash Gottumukkala"
+title: "Why Ferrari is so popular?"
 date: 2022-12-23
-categories : [Cars]
+categories : Cars
 tags :  [Cars,Ferrari]
 comments: true
-img_path: /assets/img/
+image: ferrari.jpeg
 ---
-
-<img src="ferrari.jpeg">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
      crossorigin="anonymous"></script>

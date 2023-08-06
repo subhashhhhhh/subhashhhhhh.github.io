@@ -1,13 +1,13 @@
 ---
-title: Has Artificial Intelligence become advanced enough to be a threat to humanity?
+layout: post
+author : "Subhash Gottumukkala"
+title: "Has Artificial Intelligence become advanced enough to be a threat to humanity?"
 date: 2022-12-23
-categories : [Technology]
+categories : Technology
 tags :  [Artificial Intelligence]
 comments: true
-img_path: /assets/img/
+image: ai.jpeg
 ---
-
-<img src="ai.jpeg">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
      crossorigin="anonymous"></script>

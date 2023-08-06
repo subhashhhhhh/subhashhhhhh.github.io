@@ -1,13 +1,13 @@
 ---
-title: Electric Cars don't make sense in my opinion and here's why
+layout: post
+title: "Electric Cars don't make sense in my opinion and here's why"
+author : "Subhash Gottumukkala"
 date: 2022-12-08
-categories : [Cars]
+categories : Cars
 tags :  [Electric Cars]
 comments: true
-img_path: /assets/img/
+image: tesla.jpeg
 ---
-
-<img src="tesla.jpeg">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
      crossorigin="anonymous"></script>

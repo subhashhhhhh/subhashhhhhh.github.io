@@ -1,10 +1,12 @@
 ---
-title: Interesting history of Monaco
+layout: post
+author : "Subhash Gottumukkala"
+title: "Interesting history of Monaco"
 date: 2023-07-13
-categories : [World]
+categories : World
 tags :  [Europe]
 comments: true
-img_path: /assets/img/
+image: monaco.jpeg
 ---
 
 Monaco, the second smallest country in the world, has managed to maintain its independence throughout history despite its location on the southern coast of France. With a land mass of just 2.02 km^2 (0.78 sq. miles) and a population of around 38,900 people, Monaco is known for its wealth and luxurious lifestyle. In this blog post, we will explore the captivating history of Monaco's independence and its rise to financial success.

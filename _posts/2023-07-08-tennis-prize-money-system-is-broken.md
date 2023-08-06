@@ -1,12 +1,13 @@
 ---
-title: Tennis prize money system is fundamentally broken
+layout: post
+author : "Subhash Gottumukkala"
+title: "Tennis prize money system is fundamentally broken"
 date: 2023-07-08
-categories : [Sports]
+categories : Sports
 tags :  [Tennis]
 comments: true
-img_path: /assets/img/
+image: novak.jpeg
 ---
-<img src="novak.jpeg">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
      crossorigin="anonymous"></script>

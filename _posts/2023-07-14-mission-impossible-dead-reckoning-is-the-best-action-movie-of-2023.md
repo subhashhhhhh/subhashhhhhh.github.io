@@ -1,18 +1,16 @@
 ---
-title: Mission Impossible Dead Reckoning is the best action movie of 2023
+layout: post
+author : "Subhash Gottumukkala"
+title: "Mission Impossible Dead Reckoning is the best action movie of 2023"
 date: 2023-07-14
-categories : [Movies]
-tags :  [Mission Impossible,Tom Cruise]
+categories : Movies
+tags :  [Tom Cruise]
 comments: true
-img_path: /assets/img/
+image: mi-7.jpg
 ---
-<figure>
-<img src="mi-7.jpg" alt="Tom Cruise and Vanessa Kirby">
-<figcaption>Tom Cruise and Vanessa Kirby</figcaption>
-</figure>
 
-> `WARNING` This article contains spoilers of the Mission Impossible: Dead Reckoning
-{: .prompt-warning }
+> <strong>WARNING: </strong> This article contains spoilers of the Mission Impossible: Dead Reckoning
+
 
 In an era where movie franchises can be hit or miss, the Mission Impossible series has managed to stand the test of time. From its humble beginnings in 1996, the franchise has evolved into one of the best action franchises of the 21st century. The latest installment, Mission Impossible: Dead Reckoning, faced high expectations and the challenge of salvaging a disappointing summer blockbuster season. But does it live up to its predecessors?
 
@@ -31,14 +29,11 @@ Dead Reckoning begins with a high-stakes scenario involving a Russian submarine 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 ## Tom Cruise
-<img src="bike-stunt.jpeg" alt="Bike Stunt by Tom Cruise">
+![Tom Cruise](<assets/img/bike-stunt.jpeg> "The Bike Stunt")
 At 60 years old, Tom Cruise proves once again that he is a force to be reckoned with in the action genre. His commitment to performing his own stunts adds authenticity and excitement to every scene. Cruise's portrayal of Ethan Hunt, a character who remains at the top of his game, offers a refreshing perspective on legacy heroes. Cruise understands what his fans want, and he delivers an unapologetic star performance that keeps audiences engaged from start to finish.
 
 ## Hayley Atwell
-<figure>
-<img src="tom-and-hayley.jpg" alt="Tom Cruise and Hayley Atwell">
-<figcaption>Tom Cruise and Hayley Atwell</figcaption>
-</figure>
+![Tom Cruise and Hayley Atwell](<assets/img/tom-and-hayley.jpg> "Tom Cruise and Hayley Atwell")
 Dead Reckoning introduces Hayley Atwell as Grace, a feisty and competent international thief. Unlike some recent attempts at strong female characters, Grace is likable, realistically flawed, and brings a seductive charm to the screen. Atwell's performance shines, and her chemistry with Cruise adds depth to their partnership. The movie strikes the right balance by not overshadowing Cruise's character and allowing him to remain the star unlike the recent Indiana Jones.
 
 ## An interesting take on the antagonists
