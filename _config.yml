@@ -4,6 +4,7 @@ highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 title:		           'subhashh'
+description:         'my personal blog'
 author:              'Subhash Gottumukkala'
 feed:
   path: rss-feed.xml
