@@ -20,8 +20,8 @@
 }
 
 .thumbnail-container img{
-  margin-top: -11.5%;
-  margin-bottom: -11.5%;
+  width: 100%; /* Occupy the full width of the container */
+  height: auto; /* Maintain the aspect ratio */
 }
 
 /*
