@@ -1,7 +1,7 @@
 ---
 layout: post
 author : "Subhash Gottumukkala"
-title: "What's Cooking in the background when You Enter a URL?"
+title: "What happens in the background when You Enter a URL?"
 date: 2023-08-23
 categories : Technology
 tags :  [Internet]
