@@ -9,18 +9,6 @@ comments: true
 image: tesla.jpeg
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Electric cars are becoming more popular in recent years due to their numerous benefits, including lower fuel costs and reduced emissions. However, some people argue that electric cars don't make sense for various reasons.
 
 One reason is that the electricity used to power them is often generated from fossil fuels, such as coal and natural gas. This means that while electric cars may produce fewer emissions directly, the electricity used to power them can still have a significant environmental impact.

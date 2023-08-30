@@ -9,17 +9,7 @@ comments: true
 image: threads.jpeg
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 
 Elon Musk’s Twitter competitor, Threads, a new app from Meta, was finally released yesterday after much anticipation. remarkably, 44 million users had registered on Threads in just 24 hours. In their introduction blog, Meta made note of the fact that Threads is designed to operate using an open social networking protocol, which means posts produced on the app can also be seen on other platforms.
 
@@ -29,17 +19,7 @@ Users can already sign up for Threads by logging into their Instagram account, w
 
 ActivityPub is a lesser-known protocol that has the capability to revolutionize the social web, promoting decentralization and user autonomy. This article will discuss how ActivityPub is transforming the social landscape of the internet.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 
 The great thing about ActivityPub is its interoperability; it allows for communication between different social networks, making it easier to follow and connect with users on different platforms. This means users can keep their followers and links even when they switch networks. This is a big step forward in creating an open and inclusive social web.
 
@@ -47,17 +27,7 @@ Furthermore, ActivityPub stands for decentralized social networking; here, the u
 
 ActivityPub is transforming the way we interact with social media. It offers users the ability to choose the platform that works best for them, without sacrificing their connections. It gives them the power to switch platforms easily, giving them more control over their online presence. Major players in the tech industry such as Tumblr, Flipboard and Medium have all adopted ActivityPub, recognizing its potential to create a more open and user-centric web. Mozilla, the organization behind Firefox, has also shown support. 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 
 Additionally, Mastodon, a social platform built on ActivityPub, has become increasingly popular with those seeking an alternative to mainstream social media sites. This shift is challenging the dominance of closed social networks and providing users with more independence and data ownership. ActivityPub is paving the way for a more diverse and user-centric social web.
 

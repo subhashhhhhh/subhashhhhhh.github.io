@@ -18,18 +18,6 @@ type array_name[array_size];
 
 ```
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Here, `type` is the data type of the elements in the array, `array_name` is the name of the array, and `array_size` is an integer value specifying the number of elements in the array. For example, to declare an array of 10 integers, you would write:
 
 ```
@@ -83,17 +71,7 @@ This will output the following:
 ```
 hello
 ```
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 ### Advantages of Arrays
 
 There are several advantages to using arrays in C:

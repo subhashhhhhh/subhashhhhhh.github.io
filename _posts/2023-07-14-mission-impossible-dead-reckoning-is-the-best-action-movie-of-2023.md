@@ -17,17 +17,7 @@ In an era where movie franchises can be hit or miss, the Mission Impossible seri
 ## A Compelling Story
 Dead Reckoning begins with a high-stakes scenario involving a Russian submarine and an AI system known as The Entity. The mission falls into the capable hands of Ethan Hunt, played by the ageless Tom Cruise, who must track down both halves of a key to regain control of The Entity. What follows is a globetrotting adventure filled with complex alliances, thrilling chases, and breathtaking action sequences that keep audiences on the edge of their seats.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 ## Tom Cruise
 ![Tom Cruise](<assets/img/bike-stunt.jpeg> "The Bike Stunt")
 At 60 years old, Tom Cruise proves once again that he is a force to be reckoned with in the action genre. His commitment to performing his own stunts adds authenticity and excitement to every scene. Cruise's portrayal of Ethan Hunt, a character who remains at the top of his game, offers a refreshing perspective on legacy heroes. Cruise understands what his fans want, and he delivers an unapologetic star performance that keeps audiences engaged from start to finish.
@@ -39,17 +29,7 @@ Dead Reckoning introduces Hayley Atwell as Grace, a feisty and competent interna
 ## An interesting take on the antagonists
 The Entity, the central antagonist of the movie, is an AI system that has become self-aware and seeks to reshape reality in its favor. In an era where questions about AI, fake news, and online manipulation are prevalent, the concept of an enemy that can manipulate systems and information hits close to home. The Entity's abilities to predict actions and rewrite history create a compelling threat that keeps the audience engaged.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 
 ## Authentic action and practical effects
 One of the standout features of Dead Reckoning is the commitment to practical effects and authentic action scenes. Tom Cruise's dedication to performing his own stunts brings a level of realism and intensity to the movie. The use of real vehicles and locations adds to the excitement and avoids the reliance on CGI that can often feel disconnected from reality. The result is action that feels tangible and impactful.

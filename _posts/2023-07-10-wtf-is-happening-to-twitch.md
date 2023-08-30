@@ -14,17 +14,7 @@ Twitch, the popular streaming platform that was once synonymous with gaming, has
 ## A little bit of history
 In the past, Twitch was primarily known as a hub for gamers to showcase their skills and entertain viewers. However, the platform has gradually shifted its focus towards content that some may consider more mature or even explicit. The rise of female gamers in sports bras, ASMR streams that prioritize visuals over actual audio, and the controversial hot tub streamers have become emblematic of this change. Twitch’s perma bans and strict enforcement against such content have given way to a more permissive approach, embracing and even promoting more mature content.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 
 ## The Economics
 The shift in Twitch’s content can be partially attributed to its economic considerations. Livestreamers who delve into explicit or adult-themed content often find it to be exceptionally lucrative. For example, streamer Corinna Kopf made a staggering $4 million in her first month on an alternative platform, with another million the following month. Such financial success is undeniably attractive to content creators. Considering Twitch’s 50% revenue share with streamers, it’s not surprising that the platform has chosen to embrace this type of content. However, this shift comes at a cost.
@@ -35,17 +25,7 @@ It’s important to acknowledge that mature content remains taboo in many societ
 ## The Dilemma
 The decline of Twitch’s growth rate has posed challenges for the platform and its parent company, Amazon. Unlike other popular services that generate revenue through various means, Twitch relies heavily on user payments to support creators. This limited revenue model restricts Twitch’s ability to appeal to a broader audience. To address this, Twitch faced a choice between promoting free content and appealing to a wider demographic or cutting costs to maintain profitability. Unfortunately, Twitch opted for the latter, making decisions that have negatively impacted creators and potentially limited the platform’s future growth.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 
 ## Betting Against Creators
 Twitch’s treatment of creators has shifted from generous revenue sharing to more unfavorable conditions. The platform actively renewed contracts with top streamers on less favorable terms, and the departure of popular streamers like Ninja and Shroud was met with surprisingly little impact on Twitch’s viewership. Former Twitch employees have revealed that the company deliberately leverages the limited options available to streamers, promoting a strategy of churning creators and making room for new talent. This approach mirrors Amazon’s controversial employment practices and its preference for a constant influx of fresh employees.

@@ -14,17 +14,7 @@ So, you're sitting there, staring at your screen, wondering what goes on behind 
 
 First things first, your computer wants to make sense of that cool domain name you just typed. It needs digits to do its thing, and that's where the Domain Name System (DNS) swoops in. It's like a super-smart address book, turning human-friendly names into machine-friendly numbers. Your computer pings a DNS server, and bam! It gets the IP address of the server you're after.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 
 **2. Connection High Five**
 
@@ -46,17 +36,7 @@ Big guns like Google have loads of servers. Imagine them as waiters at a super b
 
 Your request reaches the web server, the star of the show. It's like the conductor of an orchestra, arranging the notes – or in this case, the HTML, CSS, and JavaScript – into a beautiful symphony called a webpage.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125431543426665"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2125431543426665"
-     data-ad-slot="3654420654"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
 
 **7. Painting the Picture: Voilà, a Webpage!**
 
