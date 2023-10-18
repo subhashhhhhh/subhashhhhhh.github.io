@@ -2,7 +2,7 @@
 layout: post
 author : "Subhash Gottumukkala"
 title: "Charles Leclerc's Impressive Junior Career"
-date: 2023-10-19
+date: 2023-10-18
 categories : Formula 1
 tags :  [Formula 1,Ferrari]
 comments: true
