@@ -1,7 +1,7 @@
 ---
 layout: post
 author : "Subhash Gottumukkala"
-title: "I Hate Engineering Students Who join Consulting Industry (Like, Seriously, What Are You Thinking?!)"
+title: "Dear Engineering Students, Please don't join the Consulting Industry"
 date: 2024-10-19
 categories : World
 tags :  [Engineering, Consulting]
